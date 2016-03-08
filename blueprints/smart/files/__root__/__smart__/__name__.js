@@ -6,7 +6,7 @@ const propTypes = {
 };
 
 class <%= pascalEntityName %> extends Component {
-  render() {
+  render () {
     return (
 
     )
